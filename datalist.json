@@ -1,0 +1,69 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-1550614285452626/48911609xx",
+      "main_ads_intertitial": "ca-app-pub-1550614285452626/35780792xx",
+      "backup_ads_banner": "null",
+      "backup_ads_intertitial": "null",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+      "interstitial_counter": "5",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "HOME": [
+    {
+      "keyword_home_fragment": "Nature"
+    }
+  ],
+  "DATA": [
+    {
+      "title_search": "Forest",
+      "image_url": "https://fsb.zobj.net/crop.php?r=Bfhr-U8bMKftOO0aaOt8OheqJtBYqraiZSz05yOnAjOEqVD-pmV45qrEwLGhLcL-HEAt1Q8VMQlqpgvoaRIEoSGuAlX3440eML9KX-tmqv-vxgQHe4MtUkTphOOyoTVCjGr8hXYkHs7Pi9fKA46CmdRMcv4qkg3Xl9W7Gr2t8RJ4Frb8VUSzZDltvjfcX1Vh_iNdWY7fedV4-8_2"
+    },
+    {
+      "title_search": "Mountain",
+      "image_url": "https://fsa.zobj.net/crop.php?r=1GBdCguFM92WWxbWZnhz_JfLoJ78Ok8_w1PCknTV2kX4xeF-x3wr_p1c7bCXbf-nT1zrlPa2m5Q1RDJTjWH8uS9gYbgnrbJ_JWMrl7uGGvwPPnZXwTVf4dUFRkZHQuoS6SgHWix7kWoIZz_tzBroMzMlEppwoTSS3owGtOkzTsPMlgRHZ-H_LLYI_SVq7IUSSpmLzDMOZtDHxPdI"
+    },
+    {
+      "title_search": "Sunset",
+      "image_url": "https://fsa.zobj.net/crop.php?r=cf8WfJlhNGVZrH5zRIuZAvzBKMNO78UVyhjPK8iAc-0YlEmTYxD4uhcWIezflorgYbF_Fx7pPKZAd501-drv3LW1t_YRxmMLu0-2qu8z4AKTOtUSlJWqUYrBRbPN6HTOL1n4BMBelSpzmViiUgNj9hwWa2snh4S8A6ec_oxO0pJ1epQ2qkYdQon9-xbf-_T0GkvKhVGjNKkvzjMo"
+    },
+    {
+      "title_search": "Sunrise",
+      "image_url": "https://fsa.zobj.net/crop.php?r=aLUVJ3Q7TpJIB-1VymbrTg2yc2KtyjfjVCyzv_GD0eBxxAM3ixtoYrQym9BeUyqo8s8ktmmr3SIB34Srfe_PHFs8-lYPG4I5oekRLClGNvZ85QG0UDkoIZMS1u5Ood0VcAkomS6esDJubZbkBSeBAH06sB6u0HvmiMb0yo9h-owspnH1ubBsOjbzrnEs957OGmVhAvU-ZoyBwKMn"
+    },
+    {
+      "title_search": "Autumn",
+      "image_url": "https://fsa.zobj.net/crop.php?r=AQuBhCyWokm4zx60v4Tk_3XSWRCQoMkYfsVRKU3P2qP8axwpeXdWjdokGZqBjA5qdw7pEqIru32HLiMQ-eIheD5gj0ic-UGHtONnJFaB-ZX_ntJ4jGvDnVJ1Nael8ujITWlGWlOC16VImPG8RJu_aGwwkmAGSd7ygIiDDvOeVIL4YSWSjkRi5_YghcS-w3ggpbVljukSQch6Takf"
+    },
+    {
+      "title_search": "Winter",
+      "image_url": "https://fsb.zobj.net/crop.php?r=5mEvQQ_V5Lx0MfjmA4nf_t4UZO9MuNASAjtM_K1P70TkjfSJe1XbInAHRPA4xL2j4KSegQ_3at3ougexSxNbp8YTjrNheeCjznpGAwq_ncroI2IMx7UHKL1WFhQzVp0lWjQVnZEyBgvIBJvhjY8sL1kJYUENXL21Z1W3nLQQ1G1dxNRMBVNWxuxHerwYElB_iVhu7rS_NSOCoBtQ"
+    },
+    {
+      "title_search": "Spring",
+      "image_url": "https://fsb.zobj.net/crop.php?r=ROIn4WmITTtGkp4JBBKHZSRjdVfJARDYwu1X52xWYjfm1EuYz66f7442aEX5zmLcCUTaDfGSxJCUhMit-OleRivWELjQWseuep1EGFTkbYtWpaP414YLh5pnsFKly3JGVZ529tnJrIzvfGEgkzj8lAe0y7y6AowWBzNc-FMWqIoWOKXkgnvRS7H1MqDwd4gAPmecQYe5_pTCQF-I"
+    },
+    {
+      "title_search": "Rain",
+      "image_url": "https://fsb.zobj.net/crop.php?r=RsxkEFmkE5o21bMHipAC0IU4DIJKq8h0Vz2Iom7b1xD_Jx5CVa6-ah4e5GW7UBMDe7Am00At02YI7OdDbnSUWZiOtIFZA9HJ0yPXPEWSjS0pKoOiTYfPVfL5UWXUm98h67FiPMAd2q_Mxpbi4UTVWxJGpWf15V3kwDZxCac1ClI845OPPrwwiIwk3luRxkpnhl3KxoJtwrbrJ1Yd"
+    },
+    {
+      "title_search": "Beach",
+      "image_url": "https://fsb.zobj.net/crop.php?r=-NadpU2cPuKimZRUrCThRQgX4WhRF6o7bEYlf65klk6VB9b1zro-9WgmAAhKCByVIFrNvWtIcBdEPAdraWXw6gMrz4juCZX-3kfqWgWyxTZ81G4QVJlWzsLpecffWka0P0kyKgt8UqCUEcpgksqohsf5i4HkuCePXXUxpbEjUkmUSAsU209glKatxYh4CdshiLdXi7m7ap723VAQ"
+    },
+     {
+      "title_search": "Sky",
+      "image_url": "https://fsb.zobj.net/crop.php?r=nb28Rl-oZZpAB3WgvdiNGDq7m-PQRx8V45X6SbHSTTKBOtqV7JPB91HXK6L0RGKZw6BckQdCdecrIE9rScMkwpkdHqnpyfchXm8M8cGYJywcjl-3uTGu0JVCzkI4WO9e3TJxs_kE3lfiPRg8YpIFjqIn-LGQ65kj2Exzu7jcEXKzS0mTbG8qXtxRy9-n-nTJA3Z9MJeaZ-H127BU"
+    }
+  ]
+}
